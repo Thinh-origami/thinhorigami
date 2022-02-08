@@ -1,0 +1,72 @@
+#click_me {
+    width: 450px;
+    height: 450px;
+    margin: auto;
+    /* text-align: center; */
+    background-image: linear-gradient(to right, rgb(36, 114, 204), rgb(52, 201, 238));
+    /* box-shadow: 3px 2px; */
+    border-radius: 12px;
+    box-sizing: border-box;
+    filter: drop-shadow(0 0 0.75rem rgba(220, 20, 60, 0.658));
+}
+
+div #avatar {
+    height: auto; 
+    width: auto; 
+    max-width: 150px; 
+    max-height: 150px;
+    border-radius: 50%;
+    margin-top: 10%;
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+h4 {
+    font-size: 25px;
+    filter: drop-shadow(0 0 0.75rem #1eeb5b);  
+}
+
+#content-box {
+    margin: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    filter: drop-shadow(0 0 0.75rem rgb(37, 40, 223));
+}
+
+#content-box #content {
+    font-size: 15px;
+    filter: drop-shadow(0 0 0.75rem rgb(153, 122, 238));
+}
+
+a #facebook {
+    height: auto; 
+    width: auto; 
+    max-width: 50px; 
+    max-height: 50px;
+}
+
+a #github {
+    height: auto;
+    width: auto;
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+}
+
+#filter {
+    filter: drop-shadow(0 0 0.75rem rgb(240, 89, 139));
+}
+
+h3 {
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+html {
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(68, 14, 94), rgb(38, 119, 211));
+}
+
+p {
+    font-size: 12px;
+}
