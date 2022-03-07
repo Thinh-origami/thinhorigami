@@ -1,10 +1,9 @@
 #click_me {
     width: 450px;
     height: 450px;
+    max-width: 100%;
     margin: auto;
-    /* text-align: center; */
     background-image: linear-gradient(to right, rgb(36, 114, 204), rgb(52, 201, 238));
-    /* box-shadow: 3px 2px; */
     border-radius: 12px;
     box-sizing: border-box;
     filter: drop-shadow(0 0 0.75rem rgba(220, 20, 60, 0.658));
