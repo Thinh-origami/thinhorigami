@@ -3,7 +3,7 @@
     height: 450px;
     max-width: 100%;
     margin: auto;
-    background-image: linear-gradient(to right, rgb(36, 114, 204), rgb(52, 201, 238));
+    background-image: linear-gradient(to right, #F8E0E6, #F5A9BC);
     border-radius: 12px;
     box-sizing: border-box;
     filter: drop-shadow(0 0 0.75rem rgba(220, 20, 60, 0.658));
@@ -27,7 +27,7 @@ h4 {
 #content-box {
     margin: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    filter: drop-shadow(0 0 0.75rem rgb(37, 40, 223));
+    filter: drop-shadow(0 0 0.75rem #F7819F);
 }
 
 #content-box #content {
@@ -57,13 +57,13 @@ a #github {
 h3 {
     font-size: 32px;
     text-align: center;
-    color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    color: #FA5882;
+    text-shadow: 1px 1px 2px black, 0 0 25px #FA5882, 0 0 5px darkblue;
 }
 
 html {
     text-align: center;
-    background-image: linear-gradient(to right, rgb(68, 14, 94), rgb(38, 119, 211));
+    background-image: linear-gradient(to right  ,#F8E0EC, #F6CED8);
 }
 
 p {
